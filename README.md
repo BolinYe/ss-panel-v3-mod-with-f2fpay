@@ -17,3 +17,4 @@
 Telegram 群组：[https://t.me/modf2f](https://t.me/modf2f)
 
 
+lnmp默认scandir（）关闭，需手动开启
